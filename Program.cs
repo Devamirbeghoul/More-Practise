@@ -7,7 +7,7 @@ namespace MorePractise
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello, My Name is Amir");
 
 
             Console.ReadKey();
